@@ -42,6 +42,11 @@ Finally, the dashboard was created by inserting and  customizing the pivot chart
 ## Below is a snippet of the final dashboard in Excel.
 ![4](https://github.com/Abdulmalik25/Sales_performance_Analysis_Excel-project/assets/153974173/b788bfde-8e21-4892-8770-e73614b86b81)
 
+## Conclusion
+Through the exploration of regional sales dynamics and customer engagement strategies, our pivot table and dashboard shed light on the intricate relationship between sales performance and various factors such as region and customer behavior.
+
+
+
 
 
 
